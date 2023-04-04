@@ -144,7 +144,9 @@ select address ,count(id) from student group by address
 
 ```
   select * from fees where studentid= 1 order by amount desc
-
+    
+    
+    
 ```
 
 #### How to get the list of all cities along with the count of students living in each city, where the count is greater than 1?
